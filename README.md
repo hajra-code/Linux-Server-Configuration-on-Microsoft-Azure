@@ -78,7 +78,7 @@ The objective of this project was to gain practical experience in Linux system a
 
 ### DNS Server
 
-![DNS](Piture6.png)
+![DNS](Picture6.png)
 
 
 ### DHCP Server
