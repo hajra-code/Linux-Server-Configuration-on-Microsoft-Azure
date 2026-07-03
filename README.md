@@ -63,27 +63,27 @@ The objective of this project was to gain practical experience in Linux system a
 
 ### Azure Virtual Machine
 
-![Azure VM](Screenshots/Picture1.png)
+![Azure VM](Picture1.png)
 
 
 ### FTP Server
 
-![FTP](Screenshots/Picture4.png)
+![FTP](Picture4.png)
 
 
 ### Apache Web Server
 
-![Apache](Screenshots/Picture5.png)
+![Apache](Picture5.png)
 
 
 ### DNS Server
 
-![DNS](Screenshots/Piture6.png)
+![DNS](Piture6.png)
 
 
 ### DHCP Server
 
-![DHCP](Screenshots/Picture7.png)
+![DHCP](Picture7.png)
 
 
 ## Learning Outcomes
